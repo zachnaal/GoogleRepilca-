@@ -1,0 +1,20 @@
+proprety of css: 
+position 
+values: 
+static, abslout, relative, fixed- abslout and relative are similar 
+
+static: default nothing changed. 
+fixed: like the red bar in the frub hub will always be there. 
+relative:  it doesn't move- unless if you put -50 px bottom for example.  
+abslout: will not preserve original position of an element. will not overlap. 
+
+CENTER TEXT: 
+text-align: center; 
+margin: 0 auto;
+(margin will only work if elemnt have designed width pixels)
+
+html 5 elments: footer, header, main, sdection, article to use instead of div class="footer for example "
+
+to add background image: in css 
+backgroud-image: url("link"); 
+to move up in directory ../ 
